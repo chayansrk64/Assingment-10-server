@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "name": "Classic Spaghetti Carbonara",
+    "chef_name":"Alice Smith",
+    "picture": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg",
+    "experience": 10,
+    "num_recipes": 50,
+    "description": "A simple and delicious Italian pasta dish made with spaghetti, crispy pancetta, eggs, parmesan cheese, and garlic.",
+    "ingredients": [
+      "spaghetti",
+      "pancetta",
+      "eggs",
+      "parmesan cheese",
+      "garlic"
+    ],
+    "cooking_method": "Boil the spaghetti in salted water until al dente. In a separate pan, fry pancetta and garlic until crispy. Beat the eggs and mix in parmesan cheese. Drain the spaghetti and add it to the pancetta pan. Take the pan off the heat and add the egg mixture, stirring until the spaghetti is coated. Serve immediately.",
+    "rating": 5
+  },
+  {
+    "id": 2,
+    "name": "Beef Stroganoff",
+    "chef_name":"Bob Johnson",
+    "picture": "https://nationaltoday.com/wp-content/uploads/2021/07/shutterstock_1518533924-min.jpg",
+    "experience": 10,
+    "num_recipes": 50,
+    "description": "A simple and delicious Italian pasta dish made with spaghetti, crispy pancetta, eggs, parmesan cheese, and garlic.",
+    "ingredients": [
+      "beef",
+      "sour cream",
+      "onion",
+      "mushrooms",
+      "egg noodles"
+    ],
+    "cooking_method": "Brown the beef in a pan, then set it aside. In the same pan, cook the onions and mushrooms until soft. Add the beef back to the pan, along with some beef broth and sour cream. Cook for a few minutes until everything is heated through. Serve over cooked egg noodles.",
+    "rating": 4.0
+  },
+  {
+    "id": 3,
+    "name": "Vegetable Stir Fry",
+    "chef_name":"Charlie Lee",
+    "picture": "https://www.eatthis.com/wp-content/uploads/sites/4/2020/05/chef-cooking.jpg?quality=82&strip=1",
+    "experience": 10,
+    "num_recipes": 50,
+    "description": "A simple and delicious Italian pasta dish made with spaghetti, crispy pancetta, eggs, parmesan cheese, and garlic.",
+    "ingredients": [
+      "broccoli",
+      "carrots",
+      "bell peppers",
+      "onion",
+      "soy sauce"
+    ],
+    "cooking_method": "Chop the vegetables into bite-sized pieces. In a pan, heat up some oil and add the vegetables, stirring occasionally. When the vegetables are tender, add soy sauce and continue cooking until everything is hot and well combined. Serve over rice or noodles.",
+    "rating": 3.5
+  },
+  {
+    "id": 4,
+    "name": "Lemon Garlic Chicken",
+    "chef_name":"David Kim",
+    "picture": "https://www.ecpi.edu/sites/default/files/CIV%20July%2018.png",
+    "experience": 10,
+    "num_recipes": 50,
+    "description": "A simple and delicious Italian pasta dish made with spaghetti, crispy pancetta, eggs, parmesan cheese, and garlic.",
+    "ingredients": [
+      "chicken breasts",
+      "lemon",
+      "garlic",
+      "olive oil",
+      "salt"
+    ],
+    "cooking_method": "Marinate the chicken breasts in a mixture of lemon juice, garlic, olive oil, and salt. When you're ready to cook, heat up a grill or grill pan and cook the chicken until it's no longer pink. Serve with a side of vegetables.",
+    "rating": 4.2
+  },
+  {
+    "id": 5,
+    "name": "Tomato and Basil Bruschetta",
+    "chef_name":"Emily Nguyen",
+    "picture": "https://www.yourfreecareertest.com/wp-content/uploads/2016/07/chef.jpg",
+    "experience": 10,
+    "num_recipes": 50,
+    "description": "A simple and delicious Italian pasta dish made with spaghetti, crispy pancetta, eggs, parmesan cheese, and garlic.",
+    "ingredients": [
+      "baguette",
+      "tomatoes",
+      "garlic",
+      "basil",
+      "olive oil"
+    ],
+    "cooking_method": "Slice the baguette and toast the slices until they're golden brown. In a bowl, combine chopped tomatoes, garlic, basil, and olive oil. Spoon the tomato mixture onto the toasted baguette slices and serve immediately.",
+    "rating": 3
+  },
+
+ 
+
+  {
+    "id": 6,
+    "name": "Brinja fry with Mutton",
+    "chef_name":"Frank Rodriguez",
+    "picture": "https://st.depositphotos.com/1075946/3526/i/950/depositphotos_35261145-stock-photo-chefs-preparing-delicatessen-dishes.jpg",
+    "experience": 10,
+    "num_recipes": 50,
+    "description": "A simple and delicious Italian pasta dish made with spaghetti, crispy pancetta, eggs, parmesan cheese, and garlic.",
+    "ingredients": [
+      "brinjal",
+      "mutton",
+      "garlic",
+      "basil",
+      "olive oil"
+    ],
+    "cooking_method": "Slice the baguette and toast the slices until they're golden brown. In a bowl, combine chopped tomatoes, garlic, basil, and olive oil. Spoon the tomato mixture onto the toasted baguette slices and serve immediately.",
+    "rating": 2
+  }
+]
+

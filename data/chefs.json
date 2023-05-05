@@ -1,0 +1,52 @@
+ [
+      {
+        "id": 1,
+        "picture": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg",
+        "name": "Alice Smith",
+        "experience": 10,
+        "num_recipes": 50,
+        "likes": 5000
+      },
+      {
+        "id": 2,
+        "picture": "https://nationaltoday.com/wp-content/uploads/2021/07/shutterstock_1518533924-min.jpg",
+        "name": "Bob Johnson",
+        "experience": 5,
+        "num_recipes": 30,
+        "likes": 2500
+      },
+      {
+        "id": 3,
+        "picture": "https://www.eatthis.com/wp-content/uploads/sites/4/2020/05/chef-cooking.jpg?quality=82&strip=1",
+        "name": "Charlie Lee",
+        "experience": 8,
+        "num_recipes": 40,
+        "likes": 3000
+      },
+      {
+        "id": 4,
+        "picture": "https://www.ecpi.edu/sites/default/files/CIV%20July%2018.png",
+        "name": "David Kim",
+        "experience": 12,
+        "num_recipes": 60,
+        "likes": 6000
+      },
+      {
+        "id": 5,
+        "picture": "https://www.yourfreecareertest.com/wp-content/uploads/2016/07/chef.jpg",
+        "name": "Emily Nguyen",
+        "experience": 3,
+        "num_recipes": 20,
+        "likes": 1500
+      },
+      {
+        "id": 6,
+        "picture": "https://st.depositphotos.com/1075946/3526/i/950/depositphotos_35261145-stock-photo-chefs-preparing-delicatessen-dishes.jpg",
+        "name": "Frank Rodriguez",
+        "experience": 7,
+        "num_recipes": 35,
+        "likes": 2000
+      }
+    ]
+
+  
